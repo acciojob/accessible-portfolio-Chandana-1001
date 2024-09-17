@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+#head
+{
+	color:red;
+	background-color:skyblue;
+	padding:10px;
+	margin-right:50px;
+	border-radius:20px;
+	border:2px solid black;
+	
+}
